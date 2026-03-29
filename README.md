@@ -14,7 +14,7 @@ Mục tiêu cốt lõi không chỉ là xây dựng mô hình có độ chính x
 * **Mô hình Machine Learning:** Scikit-learn (Random Forest Classifier)
 
 ---
-
+![dashboard](https://github.com/Harrison1502/Bank_Churn_Project/blob/main/dashboard.png?raw=true)
 ## Kết luận & Đề xuất Kinh doanh (Business Insights)
 
 ### 1. Tỷ lệ rời bỏ tổng thể & Trạng thái hoạt động
