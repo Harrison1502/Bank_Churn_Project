@@ -31,3 +31,5 @@ Mục tiêu cốt lõi không chỉ là xây dựng mô hình có độ chính x
 * **Quan sát:** Độ tuổi trung bình của khách hàng rời đi là khoảng **45 tuổi**, cao hơn rõ rệt so với nhóm ở lại (khoảng 37 tuổi). Thêm vào đó, khách hàng Nữ có tỷ lệ rời bỏ (**25.1%**) cao hơn đáng kể so với Nam giới (16.5%).
 * **Ý nghĩa:** Hệ sinh thái sản phẩm tài chính hiện tại có vẻ đang phục vụ rất tốt cho tệp khách hàng Nam, trẻ tuổi. Tuy nhiên, nó lại đang thất bại trong việc đáp ứng nhu cầu quản lý tài sản của nhóm khách hàng Nữ giới và độ tuổi trung niên.
 * **Đề xuất:** Đa dạng hóa danh mục sản phẩm. Nghiên cứu và tung ra các gói dịch vụ tài chính được thiết kế riêng cho nhu cầu của độ tuổi trung niên và phái nữ (Ví dụ: Các gói tiết kiệm hưu trí, bảo hiểm sức khỏe gia đình, hoặc quỹ đầu tư an toàn).
+
+Contact me: https://www.linkedin.com/in/harrison1502/
